@@ -11,7 +11,7 @@ const toPx = (emu, scale = 1) =>
 const parser = new XMLParser({
   ignoreAttributes: false,
   attributeNamePrefix: "@_",
-  removeNSPrefix: true,
+  removeNSPrefix: true
 });
 
 async function readXml(zip, p) {
@@ -24,15 +24,16 @@ async function readXml(zip, p) {
 async function getSlideSize(zip) {
   const pres = await readXml(zip, "ppt/presentation.xml");
   const sz = pres?.presentation?.sldSz || pres?.sldSz;
-  const cx = Number(sz?.["@_cx"] || 12192000); // default 13.333in
-  const cy = Number(sz?.["@_cy"] || 6858000);  // default 7.5in
+  const cx = Number(sz?.["@_cx"] || 12192000);
+  const cy = Number(sz?.["@_cy"] || 6858000);
   return { cx, cy };
 }
 
+// — Placeholders extrahieren (ohne "slot"), idx als Number, Koordinaten clampen —
 function extractPlaceholders(layoutXml, scaleX = 1, scaleY = 1) {
-  const items = [];
+  const out = [];
   const spTree = layoutXml?.sldLayout?.cSld?.spTree;
-  if (!spTree) return items;
+  if (!spTree) return out;
 
   const shapes = []
     .concat(spTree.sp || [])
@@ -41,29 +42,30 @@ function extractPlaceholders(layoutXml, scaleX = 1, scaleY = 1) {
 
   for (const sp of shapes) {
     const ph = sp?.nvSpPr?.nvPr?.ph;
-    if (!ph) continue; // no placeholder
+    if (!ph) continue;
 
     const type = ph?.["@_type"] || "body";
-    const idx = ph?.["@_idx"] ?? null;
+    const rawIdx = ph?.["@_idx"];
+    const idx = rawIdx !== undefined ? Number(rawIdx) : null;
     const name = sp?.nvSpPr?.cNvPr?.["@_name"] || type;
 
     const xfrm = sp?.spPr?.xfrm || {};
     const off = xfrm?.off || {};
     const ext = xfrm?.ext || {};
-    const x = toPx(off?.["@_x"] || 0, scaleX);
-    const y = toPx(off?.["@_y"] || 0, scaleY);
-    const w = toPx(ext?.["@_cx"] || 0, scaleX);
-    const h = toPx(ext?.["@_cy"] || 0, scaleY);
+
+    // clamp >= 0, Mindestgröße 1px damit Schema (exclusiveMinimum) erfüllt ist
+    const x = Math.max(0, toPx(off?.["@_x"] || 0, scaleX));
+    const y = Math.max(0, toPx(off?.["@_y"] || 0, scaleY));
+    const w = Math.max(1, toPx(ext?.["@_cx"] || 0, scaleX));
+    const h = Math.max(1, toPx(ext?.["@_cy"] || 0, scaleY));
 
     let styleHint = "body";
     if (type === "title" || type === "ctrTitle") styleHint = "heading";
     if (type === "subTitle") styleHint = "subheading";
 
-    const rec = { name, type, idx, x, y, w, h, styleHint };
-    rec.slot = ["dt", "sldNum", "ftr"].includes(type) ? "footer" : "content";
-    items.push(rec);
+    out.push({ name, type, idx, x, y, w, h, styleHint });
   }
-  return items;
+  return out;
 }
 
 async function main() {
@@ -79,7 +81,7 @@ async function main() {
   const zip = await JSZip.loadAsync(buf);
 
   const { cx, cy } = await getSlideSize(zip);
-  const W_PX = 1280; // normalize width to 1280px
+  const W_PX = 1280;
   const scaleX = W_PX / toPx(cx, 1);
   const H_PX = Math.round(toPx(cy, 1) * scaleX);
   const scaleY = scaleX;
@@ -98,9 +100,15 @@ async function main() {
     const name = root?.["@_name"] || id;
     const type = root?.["@_type"] || "custom";
 
-    const phs = extractPlaceholders(lx, scaleX, scaleY);
-    const footer = phs.filter((p) => p.slot === "footer");
-    const placeholders = phs.filter((p) => p.slot === "content");
+    const all = extractPlaceholders(lx, scaleX, scaleY);
+
+    // Footer strikt auf das erlaubte Set reduzieren
+    const footer = all
+      .filter((p) => ["dt", "sldNum", "ftr"].includes(p.type))
+      .map(({ type, x, y, w, h }) => ({ type, x, y, w, h }));
+
+    // Content-Placeholders ohne Footer-Einträge
+    const placeholders = all.filter((p) => !["dt", "sldNum", "ftr"].includes(p.type));
 
     layouts.push({ id, pptxName: name, pptxType: type, file: lf, placeholders, footer });
   }
@@ -109,7 +117,7 @@ async function main() {
     spec_version: "1.0.0",
     source: path.basename(inPath),
     canvas: { w: W_PX, h: H_PX, unit: "px", emu: { cx, cy } },
-    layouts,
+    layouts
   };
 
   fs.writeFileSync(outPath, JSON.stringify(out, null, 2), "utf-8");
