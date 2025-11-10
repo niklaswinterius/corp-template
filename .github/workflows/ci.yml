@@ -1,0 +1,59 @@
+name: deck-build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Ensure layout-map
+        shell: bash
+        run: |
+          if [ -f layouts/template_map.json ]; then
+            echo "template_map.json exists — skip map";
+          elif [ -f tools/map/template.pptx ]; then
+            npm run map
+          else
+            echo "::error title=Missing layout map::Commit layouts/template_map.json OR commit tools/map/template.pptx so we can generate it."
+            exit 1
+          fi
+
+      - name: Select layouts (rules)
+        run: npm run select
+
+      - name: Validate (schemas, contrast, overlaps)
+        run: npm run validate
+
+      - name: Render PPTX
+        run: npm run render
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: deck-build-${{ github.run_number }}
+          path: |
+            dist/output.pptx
+            layouts/template_map.json
+            content/final.content.json
+          if-no-files-found: error
