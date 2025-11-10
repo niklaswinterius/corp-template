@@ -71,6 +71,10 @@ jobs:
 
       - name: Select layouts (rules)
         run: npm run select
+      
+      - name: Sanitize layout map
+        run: npm run sanitize
+
 
       - name: Validate (schemas, contrast, overlaps)
         run: npm run validate

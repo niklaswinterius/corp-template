@@ -24,8 +24,7 @@
           "x": 927,
           "y": 640,
           "w": 318,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 41",
@@ -34,18 +33,15 @@
           "x": 35,
           "y": 466,
           "w": 1210,
-          "h": 170,
-          "styleHint": "body"
+          "h": 170
         },
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 198,
           "w": 1209,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         },
         {
           "name": "Text Placeholder 6",
@@ -54,8 +50,7 @@
           "x": 35,
           "y": 640,
           "w": 884,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         }
       ],
       "footer": []
@@ -73,8 +68,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -83,8 +77,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 7",
@@ -93,8 +86,7 @@
           "x": 528,
           "y": 36,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -103,8 +95,7 @@
           "x": 645,
           "y": 36,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -113,8 +104,7 @@
           "x": 528,
           "y": 91,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -123,8 +113,7 @@
           "x": 645,
           "y": 91,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -133,8 +122,7 @@
           "x": 528,
           "y": 145,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -143,8 +131,7 @@
           "x": 645,
           "y": 145,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -153,8 +140,7 @@
           "x": 528,
           "y": 200,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -163,8 +149,7 @@
           "x": 645,
           "y": 200,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -173,8 +158,7 @@
           "x": 528,
           "y": 254,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -183,18 +167,15 @@
           "x": 645,
           "y": 254,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 278,
           "w": 600,
-          "h": 116,
-          "styleHint": "heading"
+          "h": 116
         }
       ],
       "footer": [
@@ -234,8 +215,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -244,8 +224,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 7",
@@ -254,8 +233,7 @@
           "x": 528,
           "y": 36,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -264,8 +242,7 @@
           "x": 645,
           "y": 36,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -274,8 +251,7 @@
           "x": 528,
           "y": 91,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -284,8 +260,7 @@
           "x": 645,
           "y": 91,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -294,8 +269,7 @@
           "x": 528,
           "y": 145,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -304,8 +278,7 @@
           "x": 645,
           "y": 145,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -314,8 +287,7 @@
           "x": 528,
           "y": 200,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -324,8 +296,7 @@
           "x": 645,
           "y": 200,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -334,8 +305,7 @@
           "x": 528,
           "y": 254,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -344,18 +314,15 @@
           "x": 645,
           "y": 254,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 278,
           "w": 600,
-          "h": 116,
-          "styleHint": "heading"
+          "h": 116
         }
       ],
       "footer": [
@@ -395,8 +362,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -405,18 +371,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 75,
           "y": 166,
           "w": 1170,
-          "h": 92,
-          "styleHint": "heading"
+          "h": 92
         },
         {
           "name": "Text Placeholder 15",
@@ -425,8 +388,7 @@
           "x": 75,
           "y": 319,
           "w": 1170,
-          "h": 188,
-          "styleHint": "body"
+          "h": 188
         }
       ],
       "footer": [
@@ -466,8 +428,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -476,18 +437,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 75,
           "y": 166,
           "w": 920,
-          "h": 92,
-          "styleHint": "heading"
+          "h": 92
         },
         {
           "name": "Text Placeholder 15",
@@ -496,8 +454,7 @@
           "x": 75,
           "y": 319,
           "w": 565,
-          "h": 188,
-          "styleHint": "body"
+          "h": 188
         }
       ],
       "footer": [
@@ -537,8 +494,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -547,18 +503,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 75,
           "y": 166,
           "w": 1170,
-          "h": 92,
-          "styleHint": "heading"
+          "h": 92
         },
         {
           "name": "Text Placeholder 15",
@@ -567,8 +520,7 @@
           "x": 75,
           "y": 319,
           "w": 1170,
-          "h": 188,
-          "styleHint": "body"
+          "h": 188
         }
       ],
       "footer": [
@@ -608,8 +560,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -618,8 +569,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -628,8 +578,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -638,18 +587,15 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 75,
           "y": 166,
           "w": 1170,
-          "h": 92,
-          "styleHint": "heading"
+          "h": 92
         },
         {
           "name": "Text Placeholder 15",
@@ -658,8 +604,7 @@
           "x": 75,
           "y": 319,
           "w": 1170,
-          "h": 188,
-          "styleHint": "body"
+          "h": 188
         }
       ],
       "footer": [
@@ -692,8 +637,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -702,18 +646,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1210,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -722,8 +663,7 @@
           "x": 35,
           "y": 72,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 20",
@@ -732,8 +672,7 @@
           "x": 18,
           "y": 224,
           "w": 623,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         }
       ],
       "footer": [
@@ -773,8 +712,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -783,18 +721,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1210,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -803,8 +738,7 @@
           "x": 35,
           "y": 72,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 20",
@@ -813,8 +747,7 @@
           "x": 18,
           "y": 224,
           "w": 623,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         }
       ],
       "footer": [
@@ -854,8 +787,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -864,18 +796,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1017,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -884,8 +813,7 @@
           "x": 35,
           "y": 72,
           "w": 1017,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 20",
@@ -894,8 +822,7 @@
           "x": 18,
           "y": 224,
           "w": 623,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         }
       ],
       "footer": [
@@ -935,8 +862,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -945,18 +871,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1210,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -965,8 +888,7 @@
           "x": 35,
           "y": 72,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 20",
@@ -975,8 +897,7 @@
           "x": 18,
           "y": 224,
           "w": 623,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         }
       ],
       "footer": [
@@ -1012,12 +933,10 @@
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 198,
           "w": 1209,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         },
         {
           "name": "Text Placeholder 5",
@@ -1026,8 +945,7 @@
           "x": 927,
           "y": 640,
           "w": 318,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 6",
@@ -1036,8 +954,7 @@
           "x": 35,
           "y": 640,
           "w": 884,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 41",
@@ -1046,8 +963,7 @@
           "x": 35,
           "y": 466,
           "w": 1210,
-          "h": 170,
-          "styleHint": "body"
+          "h": 170
         }
       ],
       "footer": []
@@ -1065,8 +981,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -1075,8 +990,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -1085,8 +999,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -1095,18 +1008,15 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1210,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -1115,8 +1025,7 @@
           "x": 35,
           "y": 72,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 20",
@@ -1125,8 +1034,7 @@
           "x": 18,
           "y": 224,
           "w": 623,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         },
         {
           "name": "Text Placeholder 18",
@@ -1135,8 +1043,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -1176,8 +1083,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -1186,8 +1092,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 20",
@@ -1196,8 +1101,7 @@
           "x": 640,
           "y": 224,
           "w": 605,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         },
         {
           "name": "Text Placeholder 4",
@@ -1206,8 +1110,7 @@
           "x": 0,
           "y": 240,
           "w": 575,
-          "h": 169,
-          "styleHint": "body"
+          "h": 169
         }
       ],
       "footer": [
@@ -1247,8 +1150,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -1257,8 +1159,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 20",
@@ -1267,8 +1168,7 @@
           "x": 640,
           "y": 224,
           "w": 605,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         },
         {
           "name": "Text Placeholder 4",
@@ -1277,8 +1177,7 @@
           "x": 0,
           "y": 240,
           "w": 575,
-          "h": 169,
-          "styleHint": "body"
+          "h": 169
         }
       ],
       "footer": [
@@ -1318,8 +1217,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -1328,8 +1226,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 20",
@@ -1338,8 +1235,7 @@
           "x": 640,
           "y": 224,
           "w": 605,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         },
         {
           "name": "Text Placeholder 4",
@@ -1348,8 +1244,7 @@
           "x": 0,
           "y": 240,
           "w": 575,
-          "h": 169,
-          "styleHint": "body"
+          "h": 169
         }
       ],
       "footer": [
@@ -1389,8 +1284,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -1399,8 +1293,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -1409,8 +1302,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -1419,8 +1311,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Text Placeholder 20",
@@ -1429,8 +1320,7 @@
           "x": 640,
           "y": 224,
           "w": 605,
-          "h": 392,
-          "styleHint": "body"
+          "h": 392
         },
         {
           "name": "Text Placeholder 4",
@@ -1439,8 +1329,7 @@
           "x": 0,
           "y": 240,
           "w": 575,
-          "h": 169,
-          "styleHint": "body"
+          "h": 169
         },
         {
           "name": "Text Placeholder 18",
@@ -1449,8 +1338,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -1490,8 +1378,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -1500,8 +1387,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -1510,8 +1396,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -1520,18 +1405,15 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 122,
           "w": 1017,
-          "h": 151,
-          "styleHint": "heading"
+          "h": 151
         },
         {
           "name": "Text Placeholder 4",
@@ -1540,8 +1422,7 @@
           "x": 504,
           "y": 254,
           "w": 740,
-          "h": 151,
-          "styleHint": "body"
+          "h": 151
         },
         {
           "name": "Picture Placeholder 4",
@@ -1550,8 +1431,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         }
       ],
       "footer": [
@@ -1591,8 +1471,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -1601,8 +1480,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -1611,8 +1489,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -1621,18 +1498,15 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 122,
           "w": 1017,
-          "h": 151,
-          "styleHint": "heading"
+          "h": 151
         },
         {
           "name": "Text Placeholder 4",
@@ -1641,8 +1515,7 @@
           "x": 504,
           "y": 254,
           "w": 740,
-          "h": 151,
-          "styleHint": "body"
+          "h": 151
         },
         {
           "name": "Picture Placeholder 4",
@@ -1651,8 +1524,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         }
       ],
       "footer": [
@@ -1692,8 +1564,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -1702,8 +1573,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -1712,18 +1582,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Content Placeholder 4",
@@ -1732,8 +1599,7 @@
           "x": 35,
           "y": 145,
           "w": 1209,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -1773,18 +1639,15 @@
           "x": 35,
           "y": 106,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 11",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 12",
@@ -1793,8 +1656,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -1803,8 +1665,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 3",
@@ -1813,8 +1674,7 @@
           "x": 35,
           "y": 186,
           "w": 1209,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         }
       ],
       "footer": [
@@ -1854,8 +1714,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -1864,8 +1723,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -1874,18 +1732,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Content Placeholder 4",
@@ -1894,8 +1749,7 @@
           "x": 35,
           "y": 145,
           "w": 1209,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -1935,18 +1789,15 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 198,
           "w": 1209,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         },
         {
           "name": "Text Placeholder 5",
@@ -1955,8 +1806,7 @@
           "x": 927,
           "y": 640,
           "w": 318,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 6",
@@ -1965,8 +1815,7 @@
           "x": 35,
           "y": 640,
           "w": 884,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 41",
@@ -1975,8 +1824,7 @@
           "x": 35,
           "y": 466,
           "w": 1210,
-          "h": 170,
-          "styleHint": "body"
+          "h": 170
         },
         {
           "name": "Picture Placeholder 4",
@@ -1985,8 +1833,7 @@
           "x": 30,
           "y": 42,
           "w": 103,
-          "h": 61,
-          "styleHint": "body"
+          "h": 61
         }
       ],
       "footer": []
@@ -2004,18 +1851,15 @@
           "x": 35,
           "y": 106,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 11",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 12",
@@ -2024,8 +1868,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -2034,8 +1877,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 12",
@@ -2044,8 +1886,7 @@
           "x": 35,
           "y": 186,
           "w": 1210,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         }
       ],
       "footer": [
@@ -2085,8 +1926,7 @@
           "x": 158,
           "y": 658,
           "w": 509,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2095,18 +1935,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 814,
-          "h": 301,
-          "styleHint": "heading"
+          "h": 301
         }
       ],
       "footer": [
@@ -2146,8 +1983,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -2156,8 +1992,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2166,18 +2001,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -2217,18 +2049,15 @@
           "x": 35,
           "y": 106,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 11",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 12",
@@ -2237,8 +2066,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -2247,8 +2075,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -2288,8 +2115,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -2298,8 +2124,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2308,18 +2133,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         }
       ],
       "footer": [
@@ -2359,18 +2181,15 @@
           "x": 35,
           "y": 106,
           "w": 1210,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 11",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 12",
@@ -2379,8 +2198,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -2389,8 +2207,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -2430,8 +2247,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2440,8 +2256,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -2489,18 +2304,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -2509,8 +2321,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2519,8 +2330,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -2529,8 +2339,7 @@
           "x": 35,
           "y": 145,
           "w": 586,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         },
         {
           "name": "Content Placeholder 8",
@@ -2539,8 +2348,7 @@
           "x": 815,
           "y": 248,
           "w": 311,
-          "h": 140,
-          "styleHint": "body"
+          "h": 140
         },
         {
           "name": "Text Placeholder 14",
@@ -2549,8 +2357,7 @@
           "x": 815,
           "y": 392,
           "w": 311,
-          "h": 95,
-          "styleHint": "body"
+          "h": 95
         }
       ],
       "footer": [
@@ -2590,18 +2397,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -2610,8 +2414,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2620,8 +2423,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -2630,8 +2432,7 @@
           "x": 35,
           "y": 145,
           "w": 586,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         },
         {
           "name": "Content Placeholder 8",
@@ -2640,8 +2441,7 @@
           "x": 815,
           "y": 248,
           "w": 311,
-          "h": 140,
-          "styleHint": "body"
+          "h": 140
         },
         {
           "name": "Text Placeholder 28",
@@ -2650,8 +2450,7 @@
           "x": 815,
           "y": 392,
           "w": 311,
-          "h": 103,
-          "styleHint": "body"
+          "h": 103
         }
       ],
       "footer": [
@@ -2687,12 +2486,10 @@
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 198,
           "w": 917,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         },
         {
           "name": "Text Placeholder 5",
@@ -2701,8 +2498,7 @@
           "x": 927,
           "y": 640,
           "w": 318,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 6",
@@ -2711,8 +2507,7 @@
           "x": 35,
           "y": 640,
           "w": 884,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 41",
@@ -2721,8 +2516,7 @@
           "x": 35,
           "y": 466,
           "w": 917,
-          "h": 170,
-          "styleHint": "body"
+          "h": 170
         }
       ],
       "footer": []
@@ -2740,18 +2534,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -2760,8 +2551,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2770,8 +2560,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 11",
@@ -2780,8 +2569,7 @@
           "x": 73,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -2790,8 +2578,7 @@
           "x": 489,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -2800,8 +2587,7 @@
           "x": 905,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         }
       ],
       "footer": [
@@ -2841,18 +2627,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -2861,8 +2644,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2871,8 +2653,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 11",
@@ -2881,8 +2662,7 @@
           "x": 73,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -2891,8 +2671,7 @@
           "x": 489,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -2901,8 +2680,7 @@
           "x": 905,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         }
       ],
       "footer": [
@@ -2942,18 +2720,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -2962,8 +2737,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -2972,8 +2746,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 11",
@@ -2982,8 +2755,7 @@
           "x": 73,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -2992,8 +2764,7 @@
           "x": 489,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -3002,8 +2773,7 @@
           "x": 905,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         }
       ],
       "footer": [
@@ -3043,18 +2813,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -3063,8 +2830,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3073,8 +2839,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 11",
@@ -3083,8 +2848,7 @@
           "x": 73,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -3093,8 +2857,7 @@
           "x": 489,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         },
         {
           "name": "Text Placeholder 11",
@@ -3103,8 +2866,7 @@
           "x": 905,
           "y": 211,
           "w": 302,
-          "h": 302,
-          "styleHint": "body"
+          "h": 302
         }
       ],
       "footer": [
@@ -3144,8 +2906,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Content Placeholder 6",
@@ -3154,18 +2915,15 @@
           "x": 659,
           "y": 145,
           "w": 586,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -3174,8 +2932,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3184,8 +2941,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -3194,8 +2950,7 @@
           "x": 35,
           "y": 145,
           "w": 586,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -3235,18 +2990,15 @@
           "x": 659,
           "y": 186,
           "w": 586,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         },
         {
           "name": "Title 8",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 9",
@@ -3255,8 +3007,7 @@
           "x": 35,
           "y": 106,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -3265,8 +3016,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -3275,8 +3025,7 @@
           "x": 35,
           "y": 186,
           "w": 586,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         },
         {
           "name": "Text Placeholder 12",
@@ -3285,8 +3034,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -3326,18 +3074,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -3346,8 +3091,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3356,8 +3100,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -3366,8 +3109,7 @@
           "x": 35,
           "y": 145,
           "w": 586,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -3403,12 +3145,10 @@
         {
           "name": "Title 8",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 9",
@@ -3417,8 +3157,7 @@
           "x": 35,
           "y": 106,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -3427,8 +3166,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -3437,8 +3175,7 @@
           "x": 35,
           "y": 186,
           "w": 586,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         },
         {
           "name": "Text Placeholder 12",
@@ -3447,8 +3184,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -3488,18 +3224,15 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Text Placeholder 18",
@@ -3508,8 +3241,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3518,8 +3250,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -3528,8 +3259,7 @@
           "x": 35,
           "y": 145,
           "w": 586,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -3565,12 +3295,10 @@
         {
           "name": "Title 8",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Text Placeholder 9",
@@ -3579,8 +3307,7 @@
           "x": 35,
           "y": 106,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -3589,8 +3316,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -3599,8 +3325,7 @@
           "x": 35,
           "y": 186,
           "w": 586,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         },
         {
           "name": "Text Placeholder 12",
@@ -3609,8 +3334,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -3650,8 +3374,7 @@
           "x": 927,
           "y": 640,
           "w": 318,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Text Placeholder 6",
@@ -3660,18 +3383,15 @@
           "x": 35,
           "y": 640,
           "w": 884,
-          "h": 38,
-          "styleHint": "body"
+          "h": 38
         },
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 198,
           "w": 917,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         },
         {
           "name": "Text Placeholder 41",
@@ -3680,8 +3400,7 @@
           "x": 35,
           "y": 466,
           "w": 917,
-          "h": 170,
-          "styleHint": "body"
+          "h": 170
         }
       ],
       "footer": []
@@ -3699,8 +3418,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -3709,8 +3427,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3719,18 +3436,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Content Placeholder 4",
@@ -3739,8 +3453,7 @@
           "x": 35,
           "y": 145,
           "w": 378,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         },
         {
           "name": "Content Placeholder 4",
@@ -3749,8 +3462,7 @@
           "x": 867,
           "y": 145,
           "w": 378,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         },
         {
           "name": "Content Placeholder 6",
@@ -3759,8 +3471,7 @@
           "x": 451,
           "y": 145,
           "w": 378,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -3800,8 +3511,7 @@
           "x": 35,
           "y": 106,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -3810,8 +3520,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3820,18 +3529,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 68,
-          "styleHint": "heading"
+          "h": 68
         },
         {
           "name": "Content Placeholder 4",
@@ -3840,8 +3546,7 @@
           "x": 35,
           "y": 186,
           "w": 378,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         },
         {
           "name": "Content Placeholder 4",
@@ -3850,8 +3555,7 @@
           "x": 867,
           "y": 186,
           "w": 378,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         },
         {
           "name": "Content Placeholder 6",
@@ -3860,8 +3564,7 @@
           "x": 451,
           "y": 186,
           "w": 378,
-          "h": 450,
-          "styleHint": "body"
+          "h": 450
         }
       ],
       "footer": [
@@ -3901,18 +3604,15 @@
           "x": 788,
           "y": 0,
           "w": 493,
-          "h": 723,
-          "styleHint": "body"
+          "h": 723
         },
         {
           "name": "Title 8",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 747,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -3921,8 +3621,7 @@
           "x": 35,
           "y": 72,
           "w": 747,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -3931,8 +3630,7 @@
           "x": 158,
           "y": 658,
           "w": 624,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -3941,8 +3639,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -3951,8 +3648,7 @@
           "x": 35,
           "y": 145,
           "w": 747,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -3992,18 +3688,15 @@
           "x": 788,
           "y": 0,
           "w": 493,
-          "h": 723,
-          "styleHint": "body"
+          "h": 723
         },
         {
           "name": "Title 8",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 747,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -4012,8 +3705,7 @@
           "x": 35,
           "y": 72,
           "w": 747,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -4022,8 +3714,7 @@
           "x": 158,
           "y": 658,
           "w": 624,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -4032,8 +3723,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 8",
@@ -4042,8 +3732,7 @@
           "x": 35,
           "y": 145,
           "w": 747,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -4083,8 +3772,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4093,8 +3781,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Picture Placeholder 2",
@@ -4103,8 +3790,7 @@
           "x": 640,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -4113,8 +3799,7 @@
           "x": 640,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -4123,8 +3808,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 9",
@@ -4133,18 +3817,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4184,8 +3865,7 @@
           "x": 640,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -4194,8 +3874,7 @@
           "x": 640,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -4204,8 +3883,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -4214,8 +3892,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4224,8 +3901,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4234,18 +3910,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4285,8 +3958,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 2",
@@ -4295,8 +3967,7 @@
           "x": 640,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -4305,8 +3976,7 @@
           "x": 640,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -4315,8 +3985,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4325,8 +3994,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4335,18 +4003,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4386,8 +4051,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 2",
@@ -4396,8 +4060,7 @@
           "x": 640,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -4406,8 +4069,7 @@
           "x": 640,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -4416,8 +4078,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4426,8 +4087,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4436,18 +4096,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4487,8 +4144,7 @@
           "x": 640,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -4497,8 +4153,7 @@
           "x": 640,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 18",
@@ -4507,8 +4162,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -4517,8 +4171,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4527,8 +4180,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4537,18 +4189,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4588,8 +4237,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 2",
@@ -4598,8 +4246,7 @@
           "x": 640,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -4608,8 +4255,7 @@
           "x": 640,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -4618,8 +4264,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4628,8 +4273,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4638,18 +4282,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4685,12 +4326,10 @@
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 36,
           "w": 605,
-          "h": 82,
-          "styleHint": "heading"
+          "h": 82
         },
         {
           "name": "Text Placeholder 7",
@@ -4699,8 +4338,7 @@
           "x": 37,
           "y": 200,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4709,8 +4347,7 @@
           "x": 154,
           "y": 200,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4719,8 +4356,7 @@
           "x": 37,
           "y": 254,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4729,8 +4365,7 @@
           "x": 154,
           "y": 254,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4739,8 +4374,7 @@
           "x": 37,
           "y": 309,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4749,8 +4383,7 @@
           "x": 154,
           "y": 309,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4759,8 +4392,7 @@
           "x": 37,
           "y": 364,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4769,8 +4401,7 @@
           "x": 154,
           "y": 364,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4779,8 +4410,7 @@
           "x": 37,
           "y": 418,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -4789,8 +4419,7 @@
           "x": 154,
           "y": 418,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 18",
@@ -4799,8 +4428,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -4809,8 +4437,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -4850,8 +4477,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -4860,8 +4486,7 @@
           "x": 158,
           "y": 658,
           "w": 411,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4870,8 +4495,7 @@
           "x": 35,
           "y": 144,
           "w": 534,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4880,18 +4504,15 @@
           "x": 35,
           "y": 72,
           "w": 534,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 534,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -4931,8 +4552,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -4941,8 +4561,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -4951,8 +4570,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -4961,18 +4579,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -5012,8 +4627,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 265,
-          "styleHint": "body"
+          "h": 265
         },
         {
           "name": "Text Placeholder 9",
@@ -5022,8 +4636,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -5032,8 +4645,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -5042,18 +4654,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Content Placeholder 22",
@@ -5062,8 +4671,7 @@
           "x": 451,
           "y": 322,
           "w": 378,
-          "h": 314,
-          "styleHint": "body"
+          "h": 314
         },
         {
           "name": "Content Placeholder 22",
@@ -5072,8 +4680,7 @@
           "x": 867,
           "y": 322,
           "w": 378,
-          "h": 314,
-          "styleHint": "body"
+          "h": 314
         },
         {
           "name": "Content Placeholder 4",
@@ -5082,8 +4689,7 @@
           "x": 35,
           "y": 322,
           "w": 378,
-          "h": 314,
-          "styleHint": "body"
+          "h": 314
         }
       ],
       "footer": [
@@ -5123,8 +4729,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -5133,8 +4738,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Picture Placeholder 4",
@@ -5143,18 +4747,15 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Title 9",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 18",
@@ -5163,8 +4764,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -5173,8 +4773,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 9",
@@ -5183,8 +4782,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 4",
@@ -5193,8 +4791,7 @@
           "x": 897,
           "y": 477,
           "w": 302,
-          "h": 116,
-          "styleHint": "body"
+          "h": 116
         }
       ],
       "footer": [
@@ -5234,8 +4831,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -5244,8 +4840,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Picture Placeholder 4",
@@ -5254,18 +4849,15 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Title 9",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 18",
@@ -5274,8 +4866,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -5284,8 +4875,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 9",
@@ -5294,8 +4884,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Content Placeholder 4",
@@ -5304,8 +4893,7 @@
           "x": 35,
           "y": 145,
           "w": 1209,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -5345,8 +4933,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -5355,8 +4942,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 9",
@@ -5365,8 +4951,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -5375,8 +4960,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -5385,18 +4969,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Picture Placeholder 4",
@@ -5405,8 +4986,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Text Placeholder 4",
@@ -5415,8 +4995,7 @@
           "x": 897,
           "y": 477,
           "w": 302,
-          "h": 116,
-          "styleHint": "body"
+          "h": 116
         }
       ],
       "footer": [
@@ -5456,8 +5035,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -5466,8 +5044,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 9",
@@ -5476,8 +5053,7 @@
           "x": 35,
           "y": 72,
           "w": 1209,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Text Placeholder 18",
@@ -5486,8 +5062,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -5496,18 +5071,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 0,
           "w": 1,
-          "h": 1,
-          "styleHint": "heading"
+          "h": 1
         },
         {
           "name": "Content Placeholder 4",
@@ -5516,8 +5088,7 @@
           "x": 35,
           "y": 145,
           "w": 1210,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         },
         {
           "name": "Picture Placeholder 4",
@@ -5526,8 +5097,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         }
       ],
       "footer": [
@@ -5567,8 +5137,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         }
       ],
       "footer": []
@@ -5586,8 +5155,7 @@
           "x": 0,
           "y": 0,
           "w": 640,
-          "h": 723,
-          "styleHint": "body"
+          "h": 723
         },
         {
           "name": "Text Placeholder 12",
@@ -5596,8 +5164,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -5606,8 +5173,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Content Placeholder 4",
@@ -5616,8 +5182,7 @@
           "x": 670,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -5626,18 +5191,15 @@
           "x": 670,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 670,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 18",
@@ -5646,8 +5208,7 @@
           "x": 158,
           "y": 658,
           "w": 395,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -5687,8 +5248,7 @@
           "x": 0,
           "y": 0,
           "w": 640,
-          "h": 723,
-          "styleHint": "body"
+          "h": 723
         },
         {
           "name": "Text Placeholder 12",
@@ -5697,8 +5257,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -5707,8 +5266,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Text Placeholder 18",
@@ -5717,8 +5275,7 @@
           "x": 158,
           "y": 658,
           "w": 395,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -5727,18 +5284,15 @@
           "x": 670,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Title 9",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 518,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Text Placeholder 9",
@@ -5747,8 +5301,7 @@
           "x": 35,
           "y": 72,
           "w": 518,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         }
       ],
       "footer": [
@@ -5788,8 +5341,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -5798,18 +5350,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 36,
           "w": 605,
-          "h": 82,
-          "styleHint": "heading"
+          "h": 82
         },
         {
           "name": "Text Placeholder 7",
@@ -5818,8 +5367,7 @@
           "x": 37,
           "y": 200,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5828,8 +5376,7 @@
           "x": 154,
           "y": 200,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5838,8 +5385,7 @@
           "x": 37,
           "y": 254,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5848,8 +5394,7 @@
           "x": 154,
           "y": 254,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5858,8 +5403,7 @@
           "x": 37,
           "y": 309,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5868,8 +5412,7 @@
           "x": 154,
           "y": 309,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5878,8 +5421,7 @@
           "x": 37,
           "y": 364,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5888,8 +5430,7 @@
           "x": 154,
           "y": 364,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5898,8 +5439,7 @@
           "x": 37,
           "y": 418,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -5908,8 +5448,7 @@
           "x": 154,
           "y": 418,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         }
       ],
       "footer": [
@@ -5949,8 +5488,7 @@
           "x": 0,
           "y": 0,
           "w": 640,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -5959,8 +5497,7 @@
           "x": 0,
           "y": 451,
           "w": 640,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -5969,8 +5506,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 18",
@@ -5979,8 +5515,7 @@
           "x": 158,
           "y": 658,
           "w": 454,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -5989,8 +5524,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Content Placeholder 4",
@@ -5999,8 +5533,7 @@
           "x": 670,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -6009,18 +5542,15 @@
           "x": 670,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 670,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         }
       ],
       "footer": [
@@ -6060,8 +5590,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6070,8 +5599,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Content Placeholder 4",
@@ -6080,8 +5608,7 @@
           "x": 35,
           "y": 144,
           "w": 575,
-          "h": 492,
-          "styleHint": "body"
+          "h": 492
         },
         {
           "name": "Text Placeholder 9",
@@ -6090,18 +5617,15 @@
           "x": 35,
           "y": 72,
           "w": 576,
-          "h": 27,
-          "styleHint": "body"
+          "h": 27
         },
         {
           "name": "Title 12",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 576,
-          "h": 34,
-          "styleHint": "heading"
+          "h": 34
         },
         {
           "name": "Picture Placeholder 27",
@@ -6110,8 +5634,7 @@
           "x": 695,
           "y": 35,
           "w": 269,
-          "h": 110,
-          "styleHint": "body"
+          "h": 110
         },
         {
           "name": "Picture Placeholder 27",
@@ -6120,8 +5643,7 @@
           "x": 976,
           "y": 35,
           "w": 269,
-          "h": 320,
-          "styleHint": "body"
+          "h": 320
         },
         {
           "name": "Picture Placeholder 27",
@@ -6130,8 +5652,7 @@
           "x": 695,
           "y": 487,
           "w": 269,
-          "h": 149,
-          "styleHint": "body"
+          "h": 149
         }
       ],
       "footer": [
@@ -6171,8 +5692,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6181,18 +5701,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 61,
-          "styleHint": "heading"
+          "h": 61
         },
         {
           "name": "Table Placeholder 6",
@@ -6201,8 +5718,7 @@
           "x": 35,
           "y": 145,
           "w": 1183,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -6242,8 +5758,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6252,18 +5767,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 3",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 35,
           "w": 1209,
-          "h": 61,
-          "styleHint": "heading"
+          "h": 61
         },
         {
           "name": "Table Placeholder 6",
@@ -6272,8 +5784,7 @@
           "x": 35,
           "y": 145,
           "w": 1183,
-          "h": 491,
-          "styleHint": "body"
+          "h": 491
         }
       ],
       "footer": [
@@ -6309,12 +5820,10 @@
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 21,
           "y": 37,
           "w": 908,
-          "h": 235,
-          "styleHint": "heading"
+          "h": 235
         },
         {
           "name": "Text Placeholder 18",
@@ -6323,8 +5832,7 @@
           "x": 158,
           "y": 658,
           "w": 509,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6333,8 +5841,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 27",
@@ -6343,8 +5850,7 @@
           "x": 39,
           "y": 337,
           "w": 94,
-          "h": 94,
-          "styleHint": "body"
+          "h": 94
         },
         {
           "name": "Text Placeholder 9",
@@ -6353,8 +5859,7 @@
           "x": 167,
           "y": 359,
           "w": 763,
-          "h": 66,
-          "styleHint": "body"
+          "h": 66
         }
       ],
       "footer": [
@@ -6394,8 +5899,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6404,18 +5908,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 21,
           "y": 37,
           "w": 908,
-          "h": 235,
-          "styleHint": "heading"
+          "h": 235
         },
         {
           "name": "Text Placeholder 9",
@@ -6424,8 +5925,7 @@
           "x": 167,
           "y": 359,
           "w": 763,
-          "h": 66,
-          "styleHint": "body"
+          "h": 66
         },
         {
           "name": "Picture Placeholder 27",
@@ -6434,8 +5934,7 @@
           "x": 39,
           "y": 337,
           "w": 94,
-          "h": 94,
-          "styleHint": "body"
+          "h": 94
         }
       ],
       "footer": [
@@ -6475,8 +5974,7 @@
           "x": 0,
           "y": 0,
           "w": 1280,
-          "h": 720,
-          "styleHint": "body"
+          "h": 720
         },
         {
           "name": "Text Placeholder 45",
@@ -6485,8 +5983,7 @@
           "x": 0,
           "y": 451,
           "w": 1280,
-          "h": 269,
-          "styleHint": "body"
+          "h": 269
         },
         {
           "name": "Text Placeholder 12",
@@ -6495,8 +5992,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Picture Placeholder 4",
@@ -6505,8 +6001,7 @@
           "x": 33,
           "y": 652,
           "w": 77,
-          "h": 45,
-          "styleHint": "body"
+          "h": 45
         },
         {
           "name": "Text Placeholder 18",
@@ -6515,8 +6010,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 9",
@@ -6525,8 +6019,7 @@
           "x": 167,
           "y": 359,
           "w": 763,
-          "h": 66,
-          "styleHint": "body"
+          "h": 66
         },
         {
           "name": "Picture Placeholder 27",
@@ -6535,8 +6028,7 @@
           "x": 39,
           "y": 337,
           "w": 94,
-          "h": 94,
-          "styleHint": "body"
+          "h": 94
         },
         {
           "name": "Text Placeholder 12",
@@ -6545,8 +6037,7 @@
           "x": 21,
           "y": 37,
           "w": 908,
-          "h": 239,
-          "styleHint": "body"
+          "h": 239
         }
       ],
       "footer": [
@@ -6582,12 +6073,10 @@
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 256,
           "w": 978,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         }
       ],
       "footer": []
@@ -6601,12 +6090,10 @@
         {
           "name": "Title 1",
           "type": "ctrTitle",
-          "idx": null,
           "x": 35,
           "y": 256,
           "w": 723,
-          "h": 208,
-          "styleHint": "heading"
+          "h": 208
         },
         {
           "name": "Text Placeholder 3",
@@ -6615,8 +6102,7 @@
           "x": 900,
           "y": 253,
           "w": 345,
-          "h": 53,
-          "styleHint": "body"
+          "h": 53
         },
         {
           "name": "Text Placeholder 3",
@@ -6625,8 +6111,7 @@
           "x": 900,
           "y": 306,
           "w": 345,
-          "h": 53,
-          "styleHint": "body"
+          "h": 53
         },
         {
           "name": "Text Placeholder 3",
@@ -6635,8 +6120,7 @@
           "x": 900,
           "y": 360,
           "w": 345,
-          "h": 53,
-          "styleHint": "body"
+          "h": 53
         },
         {
           "name": "Text Placeholder 3",
@@ -6645,8 +6129,7 @@
           "x": 900,
           "y": 415,
           "w": 345,
-          "h": 53,
-          "styleHint": "body"
+          "h": 53
         }
       ],
       "footer": []
@@ -6664,8 +6147,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6674,8 +6156,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         }
       ],
       "footer": [
@@ -6715,8 +6196,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6725,18 +6205,15 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 35,
           "y": 36,
           "w": 605,
-          "h": 82,
-          "styleHint": "heading"
+          "h": 82
         },
         {
           "name": "Text Placeholder 7",
@@ -6745,8 +6222,7 @@
           "x": 37,
           "y": 200,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6755,8 +6231,7 @@
           "x": 154,
           "y": 200,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6765,8 +6240,7 @@
           "x": 37,
           "y": 254,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6775,8 +6249,7 @@
           "x": 154,
           "y": 254,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6785,8 +6258,7 @@
           "x": 37,
           "y": 309,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6795,8 +6267,7 @@
           "x": 154,
           "y": 309,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6805,8 +6276,7 @@
           "x": 37,
           "y": 364,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6815,8 +6285,7 @@
           "x": 154,
           "y": 364,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6825,8 +6294,7 @@
           "x": 37,
           "y": 418,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6835,8 +6303,7 @@
           "x": 154,
           "y": 418,
           "w": 486,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         }
       ],
       "footer": [
@@ -6876,8 +6343,7 @@
           "x": 158,
           "y": 658,
           "w": 894,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 12",
@@ -6886,8 +6352,7 @@
           "x": 1056,
           "y": 658,
           "w": 129,
-          "h": 15,
-          "styleHint": "body"
+          "h": 15
         },
         {
           "name": "Text Placeholder 7",
@@ -6896,8 +6361,7 @@
           "x": 528,
           "y": 36,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6906,8 +6370,7 @@
           "x": 645,
           "y": 36,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6916,8 +6379,7 @@
           "x": 528,
           "y": 91,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6926,8 +6388,7 @@
           "x": 645,
           "y": 91,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6936,8 +6397,7 @@
           "x": 528,
           "y": 145,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6946,8 +6406,7 @@
           "x": 645,
           "y": 145,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6956,8 +6415,7 @@
           "x": 528,
           "y": 200,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6966,8 +6424,7 @@
           "x": 645,
           "y": 200,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6976,8 +6433,7 @@
           "x": 528,
           "y": 254,
           "w": 96,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Text Placeholder 7",
@@ -6986,18 +6442,15 @@
           "x": 645,
           "y": 254,
           "w": 512,
-          "h": 46,
-          "styleHint": "body"
+          "h": 46
         },
         {
           "name": "Title 1",
           "type": "title",
-          "idx": null,
           "x": 0,
           "y": 278,
           "w": 600,
-          "h": 116,
-          "styleHint": "heading"
+          "h": 116
         }
       ],
       "footer": [
