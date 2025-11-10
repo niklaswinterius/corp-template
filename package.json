@@ -9,7 +9,8 @@
     "build": "npm run validate",
     "fix": "echo No automatic fixes yet",
     "map": "node tools/map/extract-layouts.mjs tools/map/template.pptx layouts/template_map.json",
-    "select": "node tools/rules/select-layout.mjs content/source.request.json layouts/template_map.json tokens/brand.tokens.json content/final.content.json rules/rules.json"
+    "select": "node tools/rules/select-layout.mjs content/source.request.json layouts/template_map.json tokens/brand.tokens.json content/final.content.json rules/rules.json",
+    "render": "node tools/render/render.mjs tokens/brand.tokens.json layouts/template_map.json content/final.content.json dist/output.pptx"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +21,7 @@
     "ajv-formats": "^3.0.1",
     "fast-xml-parser": "^5.3.1",
     "fs-extra": "^11.3.2",
-    "jszip": "^3.10.1"
+    "jszip": "^3.10.1",
+    "pptxgenjs": "^4.0.1"
   }
 }

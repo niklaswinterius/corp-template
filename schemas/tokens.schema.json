@@ -1,0 +1,40 @@
+{
+  "$id": "tokens.schema.json",
+  "type": "object",
+  "required": ["semantic", "constraints"],
+  "additionalProperties": true,
+  "properties": {
+    "semantic": {
+      "type": "object",
+      "required": ["color", "typography"],
+      "properties": {
+        "color": {
+          "type": "object",
+          "required": ["surface", "onSurface", "primary", "onPrimary"],
+          "properties": {
+            "surface":   { "type": "object", "required": ["value"] },
+            "onSurface": { "type": "object", "required": ["value"] },
+            "primary":   { "type": "object", "required": ["value"] },
+            "onPrimary": { "type": "object", "required": ["value"] }
+          }
+        },
+        "typography": {
+          "type": "object",
+          "required": ["heading", "body"],
+          "properties": {
+            "heading": { "type": "object", "required": ["fontFamily","fontSize","lineHeight"] },
+            "body":    { "type": "object", "required": ["fontFamily","fontSize","lineHeight"] }
+          }
+        }
+      }
+    },
+    "constraints": {
+      "type": "object",
+      "required": ["minContrastAA", "largeTextContrast"],
+      "properties": {
+        "minContrastAA":     { "type": "object", "required": ["value"], "properties": { "value": { "type": "number", "minimum": 3 } } },
+        "largeTextContrast": { "type": "object", "required": ["value"], "properties": { "value": { "type": "number", "minimum": 3 } } }
+      }
+    }
+  }
+}

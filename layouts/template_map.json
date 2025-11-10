@@ -1,0 +1,8341 @@
+{
+  "spec_version": "1.0.0",
+  "source": "template.pptx",
+  "canvas": {
+    "w": 1280,
+    "h": 720,
+    "unit": "px",
+    "emu": {
+      "cx": 12192000,
+      "cy": 6858000
+    }
+  },
+  "layouts": [
+    {
+      "id": "slideLayout1",
+      "pptxName": "slideLayout1",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout1.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 5",
+          "type": "body",
+          "idx": "12",
+          "x": 927,
+          "y": 640,
+          "w": 318,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 41",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 466,
+          "w": 1210,
+          "h": 170,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 198,
+          "w": 1209,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 35,
+          "y": 640,
+          "w": 884,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout10",
+      "pptxName": "slideLayout10",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout10.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "34",
+          "x": 528,
+          "y": 36,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "35",
+          "x": 645,
+          "y": 36,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "36",
+          "x": 528,
+          "y": 91,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "37",
+          "x": 645,
+          "y": 91,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "38",
+          "x": 528,
+          "y": 145,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "39",
+          "x": 645,
+          "y": 145,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "40",
+          "x": 528,
+          "y": 200,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "41",
+          "x": 645,
+          "y": 200,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "42",
+          "x": 528,
+          "y": 254,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "43",
+          "x": 645,
+          "y": 254,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": -205,
+          "y": 278,
+          "w": 600,
+          "h": 116,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout11",
+      "pptxName": "slideLayout11",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout11.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "34",
+          "x": 528,
+          "y": 36,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "35",
+          "x": 645,
+          "y": 36,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "36",
+          "x": 528,
+          "y": 91,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "37",
+          "x": 645,
+          "y": 91,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "38",
+          "x": 528,
+          "y": 145,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "39",
+          "x": 645,
+          "y": 145,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "40",
+          "x": 528,
+          "y": 200,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "41",
+          "x": 645,
+          "y": 200,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "42",
+          "x": 528,
+          "y": 254,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "43",
+          "x": 645,
+          "y": 254,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": -205,
+          "y": 278,
+          "w": 600,
+          "h": 116,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout12",
+      "pptxName": "slideLayout12",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout12.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 75,
+          "y": 166,
+          "w": 1170,
+          "h": 92,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 15",
+          "type": "body",
+          "idx": "25",
+          "x": 75,
+          "y": 319,
+          "w": 1170,
+          "h": 188,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout13",
+      "pptxName": "slideLayout13",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout13.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 75,
+          "y": 166,
+          "w": 920,
+          "h": 92,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 15",
+          "type": "body",
+          "idx": "25",
+          "x": 75,
+          "y": 319,
+          "w": 565,
+          "h": 188,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout14",
+      "pptxName": "slideLayout14",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout14.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 75,
+          "y": 166,
+          "w": 1170,
+          "h": 92,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 15",
+          "type": "body",
+          "idx": "25",
+          "x": 75,
+          "y": 319,
+          "w": 1170,
+          "h": 188,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout15",
+      "pptxName": "slideLayout15",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout15.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "28",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 75,
+          "y": 166,
+          "w": 1170,
+          "h": 92,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 15",
+          "type": "body",
+          "idx": "25",
+          "x": 75,
+          "y": 319,
+          "w": 1170,
+          "h": 188,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout16",
+      "pptxName": "slideLayout16",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout16.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1210,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 18,
+          "y": 224,
+          "w": 623,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout17",
+      "pptxName": "slideLayout17",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout17.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1210,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 18,
+          "y": 224,
+          "w": 623,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout18",
+      "pptxName": "slideLayout18",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout18.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1017,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1017,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 18,
+          "y": 224,
+          "w": 623,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout19",
+      "pptxName": "slideLayout19",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout19.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1210,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 18,
+          "y": 224,
+          "w": 623,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout2",
+      "pptxName": "slideLayout2",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout2.xml",
+      "placeholders": [
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 198,
+          "w": 1209,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 5",
+          "type": "body",
+          "idx": "12",
+          "x": 927,
+          "y": 640,
+          "w": 318,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 35,
+          "y": 640,
+          "w": 884,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 41",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 466,
+          "w": 1210,
+          "h": 170,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout20",
+      "pptxName": "slideLayout20",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout20.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "28",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1210,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 18,
+          "y": 224,
+          "w": 623,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout21",
+      "pptxName": "slideLayout21",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout21.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 640,
+          "y": 224,
+          "w": 605,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "26",
+          "x": -166,
+          "y": 240,
+          "w": 575,
+          "h": 169,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout22",
+      "pptxName": "slideLayout22",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout22.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 640,
+          "y": 224,
+          "w": 605,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "26",
+          "x": -166,
+          "y": 240,
+          "w": 575,
+          "h": 169,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout23",
+      "pptxName": "slideLayout23",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout23.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 640,
+          "y": 224,
+          "w": 605,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "26",
+          "x": -166,
+          "y": 240,
+          "w": 575,
+          "h": 169,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout24",
+      "pptxName": "slideLayout24",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout24.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "28",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 20",
+          "type": "body",
+          "idx": "25",
+          "x": 640,
+          "y": 224,
+          "w": 605,
+          "h": 392,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": -166,
+          "y": 240,
+          "w": 575,
+          "h": 169,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout25",
+      "pptxName": "slideLayout25",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout25.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 122,
+          "w": 1017,
+          "h": 151,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 504,
+          "y": 254,
+          "w": 740,
+          "h": 151,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "28",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout26",
+      "pptxName": "slideLayout26",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout26.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 122,
+          "w": 1017,
+          "h": 151,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 504,
+          "y": 254,
+          "w": 740,
+          "h": 151,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout27",
+      "pptxName": "slideLayout27",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout27.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 1209,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout28",
+      "pptxName": "slideLayout28",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout28.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 11",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 186,
+          "w": 1209,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout29",
+      "pptxName": "slideLayout29",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout29.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 1209,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout3",
+      "pptxName": "slideLayout3",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout3.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 38",
+          "type": "pic",
+          "idx": "10",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 198,
+          "w": 1209,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 5",
+          "type": "body",
+          "idx": "12",
+          "x": 927,
+          "y": 640,
+          "w": 318,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 35,
+          "y": 640,
+          "w": 884,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 41",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 466,
+          "w": 1210,
+          "h": 170,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 30,
+          "y": 42,
+          "w": 103,
+          "h": 61,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout30",
+      "pptxName": "slideLayout30",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout30.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 11",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 12",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 186,
+          "w": 1210,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout31",
+      "pptxName": "slideLayout31",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout31.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 509,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 814,
+          "h": 301,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 509,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout32",
+      "pptxName": "slideLayout32",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout32.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout33",
+      "pptxName": "slideLayout33",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout33.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 11",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout34",
+      "pptxName": "slideLayout34",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout34.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout35",
+      "pptxName": "slideLayout35",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout35.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1210,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 11",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout36",
+      "pptxName": "slideLayout36",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout36.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout37",
+      "pptxName": "slideLayout37",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout37.xml",
+      "placeholders": [],
+      "footer": []
+    },
+    {
+      "id": "slideLayout38",
+      "pptxName": "slideLayout38",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout38.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 586,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "26",
+          "x": 815,
+          "y": 248,
+          "w": 311,
+          "h": 140,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 14",
+          "type": "body",
+          "idx": "27",
+          "x": 815,
+          "y": 392,
+          "w": 311,
+          "h": 95,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout39",
+      "pptxName": "slideLayout39",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout39.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 586,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "26",
+          "x": 815,
+          "y": 248,
+          "w": 311,
+          "h": 140,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 28",
+          "type": "body",
+          "idx": "28",
+          "x": 815,
+          "y": 392,
+          "w": 311,
+          "h": 103,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout4",
+      "pptxName": "slideLayout4",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout4.xml",
+      "placeholders": [
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 198,
+          "w": 917,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 5",
+          "type": "body",
+          "idx": "12",
+          "x": 927,
+          "y": 640,
+          "w": 318,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 35,
+          "y": 640,
+          "w": 884,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 41",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 466,
+          "w": 917,
+          "h": 170,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout40",
+      "pptxName": "slideLayout40",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout40.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "25",
+          "x": 73,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "26",
+          "x": 489,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "27",
+          "x": 905,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout41",
+      "pptxName": "slideLayout41",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout41.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "25",
+          "x": 73,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "26",
+          "x": 489,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "27",
+          "x": 905,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout42",
+      "pptxName": "slideLayout42",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout42.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "25",
+          "x": 73,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "26",
+          "x": 489,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "27",
+          "x": 905,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout43",
+      "pptxName": "slideLayout43",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout43.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "25",
+          "x": 73,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "26",
+          "x": 489,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 11",
+          "type": "body",
+          "idx": "27",
+          "x": 905,
+          "y": 211,
+          "w": 302,
+          "h": 302,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout44",
+      "pptxName": "slideLayout44",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout44.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 659,
+          "y": 145,
+          "w": 586,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 586,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout45",
+      "pptxName": "slideLayout45",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout45.xml",
+      "placeholders": [
+        {
+          "name": "Content Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 659,
+          "y": 186,
+          "w": 586,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 8",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 186,
+          "w": 586,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 9",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 11",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout46",
+      "pptxName": "slideLayout46",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout46.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 586,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout47",
+      "pptxName": "slideLayout47",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout47.xml",
+      "placeholders": [
+        {
+          "name": "Title 8",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 186,
+          "w": 586,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 9",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 11",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout48",
+      "pptxName": "slideLayout48",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout48.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 586,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout49",
+      "pptxName": "slideLayout49",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout49.xml",
+      "placeholders": [
+        {
+          "name": "Title 8",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 186,
+          "w": 586,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 9",
+          "type": "ftr",
+          "idx": "23",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 11",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout5",
+      "pptxName": "slideLayout5",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout5.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 5",
+          "type": "body",
+          "idx": "12",
+          "x": 927,
+          "y": 640,
+          "w": 318,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 35,
+          "y": 640,
+          "w": 884,
+          "h": 38,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 198,
+          "w": 917,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 41",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 466,
+          "w": 917,
+          "h": 170,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout50",
+      "pptxName": "slideLayout50",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout50.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 378,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "27",
+          "x": 867,
+          "y": 145,
+          "w": 378,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 451,
+          "y": 145,
+          "w": 378,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout51",
+      "pptxName": "slideLayout51",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout51.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 106,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 68,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 186,
+          "w": 378,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "27",
+          "x": 867,
+          "y": 186,
+          "w": 378,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 6",
+          "type": "body",
+          "idx": "15",
+          "x": 451,
+          "y": 186,
+          "w": 378,
+          "h": 450,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout52",
+      "pptxName": "slideLayout52",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout52.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "28",
+          "x": 788,
+          "y": -2,
+          "w": 493,
+          "h": 723,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 8",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 747,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 747,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 624,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 747,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 624,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout53",
+      "pptxName": "slideLayout53",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout53.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "28",
+          "x": 788,
+          "y": -2,
+          "w": 493,
+          "h": 723,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 8",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 747,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 747,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 624,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 8",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 747,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 624,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout54",
+      "pptxName": "slideLayout54",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout54.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "28",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 640,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 640,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout55",
+      "pptxName": "slideLayout55",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout55.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 640,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 640,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "28",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout56",
+      "pptxName": "slideLayout56",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout56.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 640,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 640,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "28",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout57",
+      "pptxName": "slideLayout57",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout57.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "26",
+          "x": 640,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "27",
+          "x": 640,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "28",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout58",
+      "pptxName": "slideLayout58",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout58.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "26",
+          "x": 640,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "27",
+          "x": 640,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "28",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout59",
+      "pptxName": "slideLayout59",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout59.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "26",
+          "x": 640,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "27",
+          "x": 640,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout6",
+      "pptxName": "slideLayout6",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout6.xml",
+      "placeholders": [
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 36,
+          "w": 605,
+          "h": 82,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "34",
+          "x": 37,
+          "y": 200,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "35",
+          "x": 154,
+          "y": 200,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "36",
+          "x": 37,
+          "y": 254,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "37",
+          "x": 154,
+          "y": 254,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "38",
+          "x": 37,
+          "y": 309,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "39",
+          "x": 154,
+          "y": 309,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "40",
+          "x": 37,
+          "y": 364,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "41",
+          "x": 154,
+          "y": 364,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "42",
+          "x": 37,
+          "y": 418,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "43",
+          "x": 154,
+          "y": 418,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout60",
+      "pptxName": "slideLayout60",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout60.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 411,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 35,
+          "y": 144,
+          "w": 534,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 534,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 534,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 411,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout61",
+      "pptxName": "slideLayout61",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout61.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout62",
+      "pptxName": "slideLayout62",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout62.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 17",
+          "type": "pic",
+          "idx": "25",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 265,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 22",
+          "type": "body",
+          "idx": "28",
+          "x": 451,
+          "y": 322,
+          "w": 378,
+          "h": 314,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 22",
+          "type": "body",
+          "idx": "29",
+          "x": 867,
+          "y": 322,
+          "w": 378,
+          "h": 314,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "30",
+          "x": 35,
+          "y": 322,
+          "w": 378,
+          "h": 314,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout63",
+      "pptxName": "slideLayout63",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout63.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 9",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "18",
+          "x": 897,
+          "y": 477,
+          "w": 302,
+          "h": 116,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout64",
+      "pptxName": "slideLayout64",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout64.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 9",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 1209,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout65",
+      "pptxName": "slideLayout65",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout65.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 4",
+          "type": "body",
+          "idx": "18",
+          "x": 897,
+          "y": 477,
+          "w": 302,
+          "h": 116,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout66",
+      "pptxName": "slideLayout66",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout66.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 1209,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 1210,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout67",
+      "pptxName": "slideLayout67",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout67.xml",
+      "placeholders": [
+        {
+          "name": "Media Placeholder 2",
+          "type": "media",
+          "idx": "10",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout68",
+      "pptxName": "slideLayout68",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout68.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "26",
+          "x": -2,
+          "y": -1,
+          "w": 640,
+          "h": 723,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 670,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 670,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 670,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 395,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 395,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout69",
+      "pptxName": "slideLayout69",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout69.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "26",
+          "x": -2,
+          "y": -1,
+          "w": 640,
+          "h": 723,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 395,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 670,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 9",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 518,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 518,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 395,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout7",
+      "pptxName": "slideLayout7",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout7.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 36,
+          "w": 605,
+          "h": 82,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "34",
+          "x": 37,
+          "y": 200,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "35",
+          "x": 154,
+          "y": 200,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "36",
+          "x": 37,
+          "y": 254,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "37",
+          "x": 154,
+          "y": 254,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "38",
+          "x": 37,
+          "y": 309,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "39",
+          "x": 154,
+          "y": 309,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "40",
+          "x": 37,
+          "y": 364,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "41",
+          "x": 154,
+          "y": 364,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "42",
+          "x": 37,
+          "y": 418,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "43",
+          "x": 154,
+          "y": 418,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout70",
+      "pptxName": "slideLayout70",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout70.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 640,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "28",
+          "x": 0,
+          "y": 451,
+          "w": 640,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "11",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 670,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 670,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 670,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 454,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout71",
+      "pptxName": "slideLayout71",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout71.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Content Placeholder 4",
+          "type": "body",
+          "idx": "29",
+          "x": 35,
+          "y": 144,
+          "w": 575,
+          "h": 492,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 35,
+          "y": 72,
+          "w": 576,
+          "h": 27,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 12",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 576,
+          "h": 34,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 27",
+          "type": "pic",
+          "idx": "32",
+          "x": 695,
+          "y": 35,
+          "w": 269,
+          "h": 110,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 27",
+          "type": "pic",
+          "idx": "33",
+          "x": 976,
+          "y": 35,
+          "w": 269,
+          "h": 320,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 27",
+          "type": "pic",
+          "idx": "34",
+          "x": 695,
+          "y": 487,
+          "w": 269,
+          "h": 149,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout72",
+      "pptxName": "slideLayout72",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout72.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 61,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Table Placeholder 6",
+          "type": "tbl",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 1183,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout73",
+      "pptxName": "slideLayout73",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout73.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 3",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 35,
+          "w": 1209,
+          "h": 61,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Table Placeholder 6",
+          "type": "tbl",
+          "idx": "25",
+          "x": 35,
+          "y": 145,
+          "w": 1183,
+          "h": 491,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout74",
+      "pptxName": "slideLayout74",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout74.xml",
+      "placeholders": [
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 21,
+          "y": 37,
+          "w": 908,
+          "h": 235,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 509,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 27",
+          "type": "pic",
+          "idx": "34",
+          "x": 39,
+          "y": 337,
+          "w": 94,
+          "h": 94,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 167,
+          "y": 359,
+          "w": 763,
+          "h": 66,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 509,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout75",
+      "pptxName": "slideLayout75",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout75.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 21,
+          "y": 37,
+          "w": 908,
+          "h": 235,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 167,
+          "y": 359,
+          "w": 763,
+          "h": 66,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 27",
+          "type": "pic",
+          "idx": "34",
+          "x": 39,
+          "y": 337,
+          "w": 94,
+          "h": 94,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout76",
+      "pptxName": "slideLayout76",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout76.xml",
+      "placeholders": [
+        {
+          "name": "Picture Placeholder 2",
+          "type": "pic",
+          "idx": "27",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 45",
+          "type": "body",
+          "idx": "26",
+          "x": 0,
+          "y": 451,
+          "w": 1280,
+          "h": 269,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 4",
+          "type": "pic",
+          "idx": "28",
+          "x": 33,
+          "y": 652,
+          "w": 77,
+          "h": 45,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 9",
+          "type": "body",
+          "idx": "14",
+          "x": 167,
+          "y": 359,
+          "w": 763,
+          "h": 66,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Picture Placeholder 27",
+          "type": "pic",
+          "idx": "34",
+          "x": 39,
+          "y": 337,
+          "w": 94,
+          "h": 94,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "35",
+          "x": 21,
+          "y": 37,
+          "w": 908,
+          "h": 239,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout77",
+      "pptxName": "slideLayout77",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout77.xml",
+      "placeholders": [
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 256,
+          "w": 978,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout78",
+      "pptxName": "slideLayout78",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout78.xml",
+      "placeholders": [
+        {
+          "name": "Title 1",
+          "type": "ctrTitle",
+          "idx": null,
+          "x": 35,
+          "y": 256,
+          "w": 723,
+          "h": 208,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 3",
+          "type": "body",
+          "idx": "10",
+          "x": 900,
+          "y": 253,
+          "w": 345,
+          "h": 53,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 3",
+          "type": "body",
+          "idx": "14",
+          "x": 900,
+          "y": 306,
+          "w": 345,
+          "h": 53,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 3",
+          "type": "body",
+          "idx": "15",
+          "x": 900,
+          "y": 360,
+          "w": 345,
+          "h": 53,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 3",
+          "type": "body",
+          "idx": "16",
+          "x": 900,
+          "y": 415,
+          "w": 345,
+          "h": 53,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": []
+    },
+    {
+      "id": "slideLayout79",
+      "pptxName": "slideLayout79",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout79.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 13",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 14",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 15",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout8",
+      "pptxName": "slideLayout8",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout8.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": 35,
+          "y": 36,
+          "w": 605,
+          "h": 82,
+          "styleHint": "heading",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "34",
+          "x": 37,
+          "y": 200,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "35",
+          "x": 154,
+          "y": 200,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "36",
+          "x": 37,
+          "y": 254,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "37",
+          "x": 154,
+          "y": 254,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "38",
+          "x": 37,
+          "y": 309,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "39",
+          "x": 154,
+          "y": 309,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "40",
+          "x": 37,
+          "y": 364,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "41",
+          "x": 154,
+          "y": 364,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "42",
+          "x": 37,
+          "y": 418,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "43",
+          "x": 154,
+          "y": 418,
+          "w": 486,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    },
+    {
+      "id": "slideLayout9",
+      "pptxName": "slideLayout9",
+      "pptxType": "custom",
+      "file": "ppt/slideLayouts/slideLayout9.xml",
+      "placeholders": [
+        {
+          "name": "Text Placeholder 18",
+          "type": "body",
+          "idx": "20",
+          "x": 158,
+          "y": 658,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 12",
+          "type": "body",
+          "idx": "21",
+          "x": 1056,
+          "y": 658,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "34",
+          "x": 528,
+          "y": 36,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "35",
+          "x": 645,
+          "y": 36,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "36",
+          "x": 528,
+          "y": 91,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "37",
+          "x": 645,
+          "y": 91,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "38",
+          "x": 528,
+          "y": 145,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "39",
+          "x": 645,
+          "y": 145,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "40",
+          "x": 528,
+          "y": 200,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "41",
+          "x": 645,
+          "y": 200,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "42",
+          "x": 528,
+          "y": 254,
+          "w": 96,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Text Placeholder 7",
+          "type": "body",
+          "idx": "43",
+          "x": 645,
+          "y": 254,
+          "w": 512,
+          "h": 46,
+          "styleHint": "body",
+          "slot": "content"
+        },
+        {
+          "name": "Title 1",
+          "type": "title",
+          "idx": null,
+          "x": -205,
+          "y": 278,
+          "w": 600,
+          "h": 116,
+          "styleHint": "heading",
+          "slot": "content"
+        }
+      ],
+      "footer": [
+        {
+          "name": "Date Placeholder 1",
+          "type": "dt",
+          "idx": "22",
+          "x": 1056,
+          "y": 677,
+          "w": 129,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Footer Placeholder 8",
+          "type": "ftr",
+          "idx": "23",
+          "x": 158,
+          "y": 677,
+          "w": 894,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        },
+        {
+          "name": "Slide Number Placeholder 10",
+          "type": "sldNum",
+          "idx": "24",
+          "x": 1188,
+          "y": 677,
+          "w": 57,
+          "h": 15,
+          "styleHint": "body",
+          "slot": "footer"
+        }
+      ]
+    }
+  ]
+}

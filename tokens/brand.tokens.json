@@ -1,0 +1,214 @@
+{
+  "$schema": "https://www.designtokens.org/schema.json",
+  "meta": {
+    "brand": {
+      "value": "Körber"
+    },
+    "sourceTheme": {
+      "value": "ppt/theme/theme1.xml"
+    },
+    "canvas": {
+      "value": {
+        "w": 1280,
+        "h": 720,
+        "unit": "px"
+      }
+    }
+  },
+  "primitives": {
+    "color": {
+      "light1": {
+        "value": "#FFFFFF"
+      },
+      "light2": {
+        "value": "#E6E2DC"
+      },
+      "dark1": {
+        "value": "#000000"
+      },
+      "dark2": {
+        "value": "#BFB8AF"
+      },
+      "accent1": {
+        "value": "#0060FF"
+      },
+      "accent2": {
+        "value": "#BFB8AF"
+      },
+      "accent3": {
+        "value": "#9D968D"
+      },
+      "accent4": {
+        "value": "#FFE32F"
+      },
+      "accent5": {
+        "value": "#FEC037"
+      },
+      "accent6": {
+        "value": "#FE8623"
+      },
+      "hyperlink": {
+        "value": "#0060FF"
+      },
+      "followedHyperlink": {
+        "value": "#0060FF"
+      }
+    },
+    "fontFamilies": {
+      "heading": {
+        "value": "Arial"
+      },
+      "body": {
+        "value": "Arial"
+      },
+      "fallbackSans": {
+        "value": "system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      }
+    },
+    "fontSizes": {
+      "100": {
+        "value": 12
+      },
+      "200": {
+        "value": 14
+      },
+      "300": {
+        "value": 16
+      },
+      "400": {
+        "value": 20
+      },
+      "500": {
+        "value": 24
+      },
+      "600": {
+        "value": 32
+      },
+      "700": {
+        "value": 40
+      }
+    },
+    "lineHeights": {
+      "tight": {
+        "value": 1.15
+      },
+      "regular": {
+        "value": 1.3
+      },
+      "loose": {
+        "value": 1.45
+      }
+    },
+    "space": {
+      "xs": {
+        "value": 4
+      },
+      "sm": {
+        "value": 8
+      },
+      "md": {
+        "value": 16
+      },
+      "lg": {
+        "value": 24
+      },
+      "xl": {
+        "value": 32
+      }
+    }
+  },
+  "semantic": {
+    "color": {
+      "surface": {
+        "value": "{primitives.color.light1.value}"
+      },
+      "onSurface": {
+        "value": "{primitives.color.dark1.value}"
+      },
+      "primary": {
+        "value": "{primitives.color.accent1.value}"
+      },
+      "onPrimary": {
+        "value": "#FFFFFF"
+      },
+      "muted": {
+        "value": "{primitives.color.dark2.value}"
+      },
+      "divider": {
+        "value": "{primitives.color.light2.value}"
+      }
+    },
+    "typography": {
+      "heading": {
+        "fontFamily": {
+          "value": "{primitives.fontFamilies.heading.value}"
+        },
+        "fontSize": {
+          "value": "{primitives.fontSizes.600.value}"
+        },
+        "lineHeight": {
+          "value": "{primitives.lineHeights.tight.value}"
+        }
+      },
+      "subheading": {
+        "fontFamily": {
+          "value": "{primitives.fontFamilies.heading.value}"
+        },
+        "fontSize": {
+          "value": "{primitives.fontSizes.400.value}"
+        },
+        "lineHeight": {
+          "value": "{primitives.lineHeights.regular.value}"
+        }
+      },
+      "body": {
+        "fontFamily": {
+          "value": "{primitives.fontFamilies.body.value}"
+        },
+        "fontSize": {
+          "value": "{primitives.fontSizes.300.value}"
+        },
+        "lineHeight": {
+          "value": "{primitives.lineHeights.regular.value}"
+        }
+      },
+      "caption": {
+        "fontFamily": {
+          "value": "{primitives.fontFamilies.body.value}"
+        },
+        "fontSize": {
+          "value": "{primitives.fontSizes.200.value}"
+        },
+        "lineHeight": {
+          "value": "{primitives.lineHeights.loose.value}"
+        }
+      }
+    },
+    "icon": {
+      "library": {
+        "value": "UNSET"
+      },
+      "opticalSize": {
+        "value": 24
+      },
+      "weight": {
+        "value": 200
+      }
+    }
+  },
+  "constraints": {
+    "allowedFonts": {
+      "value": [
+        "{primitives.fontFamilies.heading.value}",
+        "{primitives.fontFamilies.body.value}",
+        "{primitives.fontFamilies.fallbackSans.value}"
+      ]
+    },
+    "minContrastAA": {
+      "value": 4.5
+    },
+    "largeTextContrast": {
+      "value": 3.0
+    }
+  }
+}
