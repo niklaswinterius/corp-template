@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "validate": "node ci/validate.js && node ci/contrast-check.js && node ci/overlap-check.js",
+    "test": "npm run validate:all",
+    "validate": "npm run validate:ci",
+    "validate:all": "npm run validate:template && npm run validate:ci",
+    "validate:ci": "node ci/validate.js && node ci/contrast-check.js && node ci/overlap-check.js",
+    "validate:template": "node tools/diagnose/validate-template.mjs",
+    "validate:debug": "DEBUG=true node tools/diagnose/validate-template.mjs",
+    "sanitize:layouts": "node tools/sanitize/layout-sanitizer.mjs",
+    "sanitize:debug": "DEBUG=true node tools/sanitize/layout-sanitizer.mjs",
     "build": "npm run validate",
     "fix": "echo No automatic fixes yet",
     "map": "node tools/map/extract-layouts.mjs tools/map/template.pptx layouts/template_map.json",
     "select": "node tools/rules/select-layout.mjs content/source.request.json layouts/template_map.json tokens/brand.tokens.json content/final.content.json rules/rules.json",
-    "render": "node tools/render/render.mjs tokens/brand.tokens.json layouts/template_map.json content/final.content.json dist/output.pptx"
+    "render": "node tools/render/render.mjs tokens/brand.tokens.json layouts/template_map.json content/final.content.json dist/output.pptx",
+    "sanitize": "node tools/map/sanitize-map.mjs layouts/template_map.json"
   },
   "keywords": [],
   "author": "",
