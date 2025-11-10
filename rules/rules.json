@@ -1,0 +1,15 @@
+{
+  "weights": {
+    "singleContentBonus": 1.0,
+    "twoColumnBonus": 1.3,
+    "largeAreaBonus": 0.002,
+    "imageTextComboBonus": 2.0,
+    "tablePrefSingle": 1.5,
+    "chartWithTextTwoCol": 1.8,
+    "textHeavySingle": 1.5
+  },
+  "thresholds": {
+    "textHeavyBullets": 6
+  },
+  "zoneNames": ["content", "left", "right", "notes"]
+}

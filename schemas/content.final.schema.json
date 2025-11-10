@@ -1,0 +1,47 @@
+{
+  "$id": "content.final.schema.json",
+  "type": "object",
+  "required": ["slides"],
+  "properties": {
+    "slides": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["layout", "title"],
+        "properties": {
+          "layout": { "type": "string" },
+          "title": { "type": "string" },
+          "subtitle": { "type": "string" },
+          "content": { "$ref": "#/$defs/block" },
+          "left": { "$ref": "#/$defs/block" },
+          "right": { "$ref": "#/$defs/block" },
+          "notes": { "$ref": "#/$defs/block" },
+          "meta": {
+            "type": "object",
+            "properties": {
+              "date": { "type": "string" },
+              "altTexts": { "type": "object" }
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "block": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": { "type": "string", "enum": ["richtext", "image", "table", "chart"] },
+        "bullets": { "type": "array", "items": { "type": "string" } },
+        "url": { "type": "string" },
+        "rows": { "type": "array" },
+        "chartType": { "type": "string", "enum": ["bar", "line", "pie"] },
+        "series": { "type": "array" },
+        "categories": { "type": "array" },
+        "alt": { "type": "string" }
+      }
+    }
+  }
+}

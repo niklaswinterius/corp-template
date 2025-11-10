@@ -1,0 +1,65 @@
+{
+  "slides": [
+    {
+      "layout": "slideLayout66",
+      "title": "Projekt-Update Q4",
+      "subtitle": "Status, Risiken, nächste Schritte",
+      "left": {
+        "type": "richtext",
+        "bullets": [
+          "Deliverables: 7/9",
+          "Budget: 92% genutzt",
+          "Risiko: Lieferverzug B",
+          "Nächste Schritte: Abnahme"
+        ]
+      },
+      "meta": {
+        "date": "2025-11-10"
+      }
+    },
+    {
+      "layout": "slideLayout66",
+      "title": "KPIs",
+      "left": {
+        "type": "chart",
+        "chartType": "bar",
+        "series": [
+          {
+            "name": "Umsatz",
+            "data": [
+              12,
+              15,
+              9,
+              18
+            ]
+          }
+        ],
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ]
+      },
+      "right": {
+        "type": "richtext",
+        "bullets": [
+          "Q4 Ziel > Q3 + 50%",
+          "Marketing-Push",
+          "Neue Pipeline"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "layout": "slideLayout66",
+      "title": "Teamfoto",
+      "left": {
+        "type": "image",
+        "url": "images/team.jpg",
+        "alt": "Teamfoto 2025"
+      },
+      "meta": {}
+    }
+  ]
+}
