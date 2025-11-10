@@ -4,3 +4,5 @@ build/
 Thumbs.db
 dist/
 images/
+
+tools/api/

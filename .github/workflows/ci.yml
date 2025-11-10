@@ -75,7 +75,8 @@ jobs:
       - name: Sanitize layout map
         run: npm run sanitize
 
-
+      - name: Sanitaze layout map
+        run: npm run sanitize --if-present
       - name: Validate (schemas, contrast, overlaps)
         run: npm run validate
 
