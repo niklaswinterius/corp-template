@@ -24,15 +24,45 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
+      - name: Node & npm versions
+        shell: bash
+        run: |
+          set -euxo pipefail
+          node -v
+          npm -v
+
       - name: Install deps
         run: npm ci
+
+      # Debug vor Ensure layout-map
+      - name: Debug tree
+        shell: bash
+        run: |
+          set -euxo pipefail
+          pwd
+          echo "Branch: $GITHUB_REF  SHA: $GITHUB_SHA"
+          ls -la
+          ls -la layouts || true
+          if [ -f "layouts/template_map.json" ]; then
+            echo "FOUND layouts/template_map.json"
+            head -n 40 layouts/template_map.json || true
+          else
+            echo "NOT FOUND: layouts/template_map.json"
+          fi
+          if [ -f "tools/map/template.pptx" ]; then
+            echo "FOUND tools/map/template.pptx"
+          else
+            echo "NOT FOUND: tools/map/template.pptx"
+          fi
+          find . -maxdepth 3 -type f | sort | sed -n '1,200p' || true
 
       - name: Ensure layout-map
         shell: bash
         run: |
-          if [ -f layouts/template_map.json ]; then
-            echo "template_map.json exists — skip map";
-          elif [ -f tools/map/template.pptx ]; then
+          set -euxo pipefail
+          if [ -f "layouts/template_map.json" ]; then
+            echo "template_map.json exists — skip map"
+          elif [ -f "tools/map/template.pptx" ]; then
             npm run map
           else
             echo "::error title=Missing layout map::Commit layouts/template_map.json OR commit tools/map/template.pptx so we can generate it."
